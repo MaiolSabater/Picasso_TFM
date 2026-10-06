@@ -1,0 +1,9 @@
+[submodule "PICASSO/submodules/diff-gaussian-rasterization"]
+	path = PICASSO/submodules/diff-gaussian-rasterization
+	url = https://github.com/graphdeco-inria/diff-gaussian-rasterization.git
+[submodule "PICASSO/submodules/fused-ssim"]
+	path = PICASSO/submodules/fused-ssim
+	url = https://github.com/rahul-goel/fused-ssim.git
+[submodule "PICASSO/submodules/simple-knn"]
+	path = PICASSO/submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git

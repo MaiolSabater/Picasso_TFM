@@ -1,0 +1,8 @@
+tqdm
+lpips
+opencv-python
+joblib
+gdown
+imageio
+plyfile
+git+https://github.com/luca-medeiros/lang-segment-anything.git
